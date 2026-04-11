@@ -273,6 +273,7 @@ https://support.google.com/chrome/a/answer/15950395?hl=ja
 
 ## ChromeOS Android アプリ
 * **Google Play アプリ**
+
   https://play.google.com/store/apps
 
 * **ChMate (\*)**
