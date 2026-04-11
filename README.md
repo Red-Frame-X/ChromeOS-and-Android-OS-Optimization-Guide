@@ -930,10 +930,11 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 * **HaGeZi's DNS Blocklists**
 
   GitHub：https://github.com/hagezi/dns-blocklists
-  
+
   世界中のリスト統合と徹底検証により網羅性と低誤爆を最高水準で両立し、毎日更新と迅速な対応を備えた世界で最も高評価な有志による統合型DNSブロックリストです。
   
 * **oisd｜domain blocklist**
+ 
   HP：https://oisd.nl/
   GitHub：https://github.com/sjhgvr/oisd
   広告、トラッカー、マルウェアなどを防ぐDNSブロックリストで、最大の特徴は「サイトを破壊しない」という厳格な採用基準による、誤検知が極めて少ない点です。
