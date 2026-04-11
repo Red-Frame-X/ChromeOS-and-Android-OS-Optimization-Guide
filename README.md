@@ -779,10 +779,11 @@ https://github.com/AdguardTeam/AdguardFilters/issues/217897
 **Issues報告・補足**
 * AdGuard Filters IssuesはAdGuardフィルタポリシーに従って処理されます
   * AdGuardフィルタポリシー
-  
+
     https://adguard.com/kb/ja/general/ad-filtering/filter-policy/
 * AdGuard Sitereport website
   * AdGuard製品（Windows、macOS、Android、iOS、ブラウザ拡張機能）から構造化クエリパラメータを受信して​​、壊れたWebサイトや見逃された広告に関するレポートフォームを事前に入力します
+  
     https://github.com/AdguardTeam/ReportsWebApp
 
 ---
