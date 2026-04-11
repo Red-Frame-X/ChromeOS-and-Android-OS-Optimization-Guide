@@ -725,8 +725,7 @@ Yuki2718氏のよくある質問より引用：https://github.com/Yuki2718/adblo
 **AdGuardユーザールール作成ガイド**
 * なんJ AdGuard部 Wiki* > フィルタ構文：https://wikiwiki.jp/nanj-adguard/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E6%A7%8B%E6%96%87
 * AdGuard-自分の広告フィルタを作成する方法：https://adguard-com.translate.goog/kb/ja/general/ad-filtering/create-own-filters/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp
-* AdGuard - DNS filtering rules syntax：
-  https://adguard--dns-io.translate.goog/kb/ja/general/dns-filtering-syntax/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp
+* AdGuard - DNS filtering rules syntax：https://adguard--dns-io.translate.goog/kb/ja/general/dns-filtering-syntax/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp
 
 **Issues報告**
 AdGuardでの広告ブロック漏れ、Anti-Adblock Scriptによるコンテンツブロッカー検出、コンテンツブロックフィルタの誤ブロックといったフィルタ関連の不具合は、以下のいずれかの方法でIssueを作成して報告してください。
