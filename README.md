@@ -231,7 +231,7 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
   - 説明：Chromebookのリカバリメディアを作成するGoogle公式ツール
 
 **参考サイト**
-- Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記：  <https://kdroidwin.hatenablog.com/entry/sc>
+- Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記： <https://kdroidwin.hatenablog.com/entry/sc>
 - Kami-Browser-Add-on｜Kdroidwin： <https://codeberg.org/Kdroidwin/Kami-Browser-Add-on>
 
 ---
