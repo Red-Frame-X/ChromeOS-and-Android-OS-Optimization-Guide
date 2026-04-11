@@ -1035,7 +1035,7 @@ AdGuard Filters、AdGuard DNS（filter）についての最終的な決定はAdG
 * **参考サイト**
   kitadai31 / AdGuardSDNSFilter_withoutPrivacyFilters - AdGuard DNS filterからトラッキングやプライバシー用のフィルタを取り除いたDNSフィルタ：https://github.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters
 
-③ **DNSユーザーフィルタ**：AdGuard DNS filterを使用しながら、プライバシー関連のルールを例外（@@）にするDNSユーザーフィルタを自分で作成する。
+③ **DNSユーザーフィルタ** AdGuard DNS filterを使用しながら、プライバシー関連のルールを例外（@@）にするDNSユーザーフィルタを自分で作成する。
 
 **DNSサーバー**
 DNS設定は、状況に応じてAdGuard for Android内で行います。
