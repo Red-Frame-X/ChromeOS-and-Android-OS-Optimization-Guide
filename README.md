@@ -1,4 +1,4 @@
-# Chrome-OS-and-Android-OS-Optimization-Guide
+# ChromeOS & Android OS Optimization Guide
 ChromeOS・Android OS：最適化ガイド
 
 ## About Me
