@@ -840,6 +840,7 @@ title/Example Domain/
 
 ### ! 購読済みのDNSブロックリスト・hostsファイル
 - **HaGeZi's Pro DNS Blocklist**
+
   <https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt>
 
 **Issues報告 / 参考サイト**
