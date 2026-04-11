@@ -1278,7 +1278,7 @@ Official Morphe Patchesをビルドしたことがあるのみで、人気のあ
 
 ▼ 詳しい使い方を知りたい場合や、不具合について質問する際は、まず下記のReVanced総合スレのテンプレを確認することを強くおすすめします ▼
 * 5ch > Android > Revanced総合
-  テンプレ筆者：kitadai31氏・スレ有志諸氏
+  テンプレ筆者：kitadai31氏・スレ有志諸氏：
   https://ff5ch.syoboi.jp/?q=Revanced%E7%B7%8F%E5%90%88
 
 ```text
