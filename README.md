@@ -251,7 +251,7 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 * Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記
 
  https://kdroidwin.hatenablog.com/entry/sc
-* Kami-Browser-Add-on｜Kdroidwin https://codeberg.org/Kdroidwin/Kami-Browser-Add-on
+* Kami-Browser-Add-on｜Kdroidwinhttps://codeberg.org/Kdroidwin/Kami-Browser-Add-on
 
 ---
 
