@@ -236,8 +236,8 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
 ---
 
 ## ChromeOS Chrome テーマ
+視認性を重視しています
 - **Chrome Web Store テーマ**: <https://chromewebstore.google.com/category/themes>
-視認性を重視しています。
 
 - **Royal Desert Sand**
   - URL：<https://chromewebstore.google.com/detail/royal-desert-sand/nnieplejkjaodhemceganohmdkfekkem>
