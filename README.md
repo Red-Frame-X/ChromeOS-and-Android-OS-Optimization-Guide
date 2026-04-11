@@ -927,7 +927,7 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 * personalDNSfilter Issues：https://github.com/IngoZenz/personaldnsfilter/issues
 
 **参考サイト**
-* **HaGeZi's DNS Blocklists**
+* **HaGeZi's DNS Blocklists**世界中のリスト統合と徹底検証により網羅性と低誤爆を最高水準で両立し、毎日更新と迅速な対応を備えた世界で最も高評価な有志による統合型DNSブロックリストです。
 
   GitHub：https://github.com/hagezi/dns-blocklists
 
