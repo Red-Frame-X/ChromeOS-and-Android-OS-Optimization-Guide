@@ -931,7 +931,7 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 
   GitHub：https://github.com/hagezi/dns-blocklists
 
-* **oisd｜domain blocklist** 広告、トラッカー、マルウェアなどを防ぐDNSブロックリストで、最大の特徴は「サイトを破壊しない」という厳格な採用基準による、誤検知が極めて少ない点です。
+* **oisd｜domain blocklist**：広告、トラッカー、マルウェアなどを防ぐDNSブロックリストで、最大の特徴は「サイトを破壊しない」という厳格な採用基準による、誤検知が極めて少ない点です。
  
   HP：https://oisd.nl/
  
