@@ -1031,7 +1031,7 @@ AdGuard Filters、AdGuard DNS（filter）についての最終的な決定はAdG
 * **参考サイト**
   monsivamon / AdGuard_DNS_Filter_for_myself - AdGuard DNS filterに作者様独自の改善案を取り入れたDNSフィルタ：https://github.com/monsivamon/AdGuard_DNS_Filter_for_myself
 
-② **AdGuard DNSフィルタ（プライバシー抜き）**：AdGuard DNS filterをOFFにして、AdGuard DNS filter（without privacy filters）に切り替える。：
+② **AdGuard DNSフィルタ（プライバシー抜き）**：AdGuard DNS filterをOFFにして、AdGuard DNS filter（without privacy filters）に切り替える。：https://monsivamon.github.io/AdGuard_DNS_Filter_for_myself/Filters/main_filter.txt
 * **参考サイト**
   kitadai31 / AdGuardSDNSFilter_withoutPrivacyFilters
   AdGuard DNS filterからトラッキングやプライバシー用のフィルタを取り除いたDNSフィルタ
