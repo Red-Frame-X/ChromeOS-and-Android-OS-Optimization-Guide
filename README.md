@@ -1394,7 +1394,7 @@ ModアプリやRoot化された端末が検知されるようになり、𝕏/Tw
 * **Yahoo!リアルタイム検索** トレンド、話題の画像・動画をチェック（https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybuzzdetection&hl=ja）
 * **GitHub** GitHub公式アプリ（https://play.google.com/store/apps/details?id=com.github.android）
 * **Aurora Store** Google Play Storeの代替手段（https://auroraoss.com/aurora-store）
-* **F-Droid**：FOSSをインストールできるカタログ（https://f-droid.org/ja/）
+* **F-Droid** FOSSをインストールできるカタログ（https://f-droid.org/ja/）
 * **Accrescent**：セキュリティ・プライバシー重視のアプリストア（https://accrescent.app/）
 * **Device Info**：デバイス情報: システム & CPU 情報（https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo&hl=ja）
 
