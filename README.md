@@ -232,7 +232,7 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
 
 **参考サイト**
 - Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記：  <https://kdroidwin.hatenablog.com/entry/sc>
-- Kami-Browser-Add-on｜Kdroidwin：  <https://codeberg.org/Kdroidwin/Kami-Browser-Add-on>
+- Kami-Browser-Add-on｜Kdroidwin： <https://codeberg.org/Kdroidwin/Kami-Browser-Add-on>
 
 ---
 
