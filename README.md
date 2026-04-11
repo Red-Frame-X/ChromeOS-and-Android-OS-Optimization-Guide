@@ -570,7 +570,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 * **Grok**：https://grok.com/ - 汎用性 + 制限が緩い - 𝕏の投稿の信憑性をチェックするのに使えそう？
 * **GitHub Copilot**：https://github.com/features/copilot - コーディング用
 * **z.ai GLM-4.5**：https://chat.z.ai/ - 無料でそこそこの性能・ローカルで動かせる
-* **SDXL**：https://stablediffusionweb.com/｜狙い撃ち・人物や複雑な構図の生成で優秀
+* **SDXL**：https://stablediffusionweb.com/ - 狙い撃ち・人物や複雑な構図の生成で優秀
 
 **出典**
 mondで自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m
