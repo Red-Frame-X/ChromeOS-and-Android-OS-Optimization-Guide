@@ -444,7 +444,7 @@ example.com##selector
 
 ▶ 生成AIはフィルタエンジニアの代替にはならないので、AdGuard Filters Issuesへの報告が最善です。：https://github.com/AdguardTeam/AdguardFilters/issues
 - 月間トラフィック量が100,000未満のWebサイトは対処されない場合があります。
-▶ AdGuard Filters Issues reporting toolやGitHubのコメント欄では、Markdown記法が使用できます。（https://qiita.com/oreo/items/82183bfbaac69971917f）
+▶ AdGuard Filters Issues reporting toolやGitHubのコメント欄では、Markdown記法が使用できます。：（https://qiita.com/oreo/items/82183bfbaac69971917f）
 
 ### ◆ 作成したAdGuardユーザールールの整理
 作成したAdGuardユーザールールをコピー & ペースト（↲改行）
