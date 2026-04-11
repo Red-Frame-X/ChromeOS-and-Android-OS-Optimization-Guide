@@ -442,7 +442,7 @@ example.com##selector
 **⑥** 生成されたAdGuardユーザールールを登録し、該当サイト上で動作確認をします
 **⑦** 生成されたAdGuardユーザールールが意図した動作をしない時は、生成されたAdGuardユーザールールをGeminiの入力欄にペーストして（↲改行）、プロンプトにルールの動作のフィードバックをしてルールを再生成し、AdGuardユーザールールに登録して動作確認を繰り返します
 
-▶ 生成AIはフィルタエンジニアの代替にはならないので、AdGuard Filters Issuesへの報告（https://github.com/AdguardTeam/AdguardFilters/issues）が最善です。
+▶ 生成AIはフィルタエンジニアの代替にはならないので、AdGuard Filters Issuesへの報告（）が最善です。
 - 月間トラフィック量が100,000未満のWebサイトは対処されない場合があります。
 ▶ AdGuard Filters Issues reporting toolやGitHubのコメント欄では、Markdown記法（https://qiita.com/oreo/items/82183bfbaac69971917f）が使用できます。
 
