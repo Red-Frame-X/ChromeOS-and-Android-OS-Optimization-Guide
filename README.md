@@ -1265,6 +1265,7 @@ Manager：ビルド作業を行うためのツールです。
 **ビルド作業で使う公式Androidアプリの調達先サイト**
 * APKMirror
   https://www.apkmirror.com/
+  
   ▶ 有名なAndroidニュースサイト「Android Police」の創設者（Artem Russakovskii氏）によって運営・管理されています。
   ▶ ビルド済みのapkファイルを直接配布しているサイトがいくつか存在しますが、GitHubで公開されているビルド済みのapkファイル以外は、安全性の面から利用は推奨されません。
 
