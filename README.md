@@ -976,6 +976,7 @@ HTTPSフィルタリング有効化でまれに画像や文字の表示不具合
 
 **CoreLibs**
 GitHub：https://github.com/AdguardTeam/CoreLibs
+
 AdGuardのネットワークフィルタリングの心臓部である「CoreLibs」のソースコードは非公開（プロプライエタリ）であり、主にIssues（バグ報告や機能要望）の管理目的で公開されています。
 そのため、第三者がコアエンジンのソースコードを直接監査することはできません。
 しかし、AdGuard上で動作するフィルタリングルールや「Scriptlets」（https://github.com/AdguardTeam/Scriptlets）などの主要機能はオープンソースとして公開されており、世界中の専門家やコミュニティによって監査・改良されています。
