@@ -1396,7 +1396,7 @@ ModアプリやRoot化された端末が検知されるようになり、𝕏/Tw
 * **Aurora Store** Google Play Storeの代替手段（https://auroraoss.com/aurora-store）
 * **F-Droid** FOSSをインストールできるカタログ（https://f-droid.org/ja/）
 * **Accrescent** セキュリティ・プライバシー重視のアプリストア（https://accrescent.app/）
-* **Device Info** デバイス情報: システム & CPU 情報：https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo&hl=ja）
+* **Device Info** デバイス情報: システム & CPU 情報：https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo&hl=ja
 
 **参考サイト**
 * r/revancedapp｜Reddit：https://www.reddit.com/r/revancedapp/
