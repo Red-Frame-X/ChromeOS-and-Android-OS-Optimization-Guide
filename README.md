@@ -941,7 +941,7 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
   
   GitHub：https://github.com/StevenBlack/hosts
 
-* **sebsauvage.net hosts blocklist**：
+* **sebsauvage.net hosts blocklist**：広告、トラッキング、マルウェアをDNSレベルで遮断するために、複数のリストを統合して構築されたPCやスマホで利用できる汎用的なhostsファイルです。
   
   HP：https://sebsauvage.net/wiki/doku.php?id=dns-blocklist-en | GitHub：https://github.com/sebsauvage
 
