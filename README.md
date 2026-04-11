@@ -979,7 +979,7 @@ GitHub：https://github.com/AdguardTeam/CoreLibs
 
 AdGuardのネットワークフィルタリングの心臓部である「CoreLibs」のソースコードは非公開（プロプライエタリ）であり、主にIssues（バグ報告や機能要望）の管理目的で公開されています。
 そのため、第三者がコアエンジンのソースコードを直接監査することはできません。
-しかし、AdGuard上で動作するフィルタリングルールや「Scriptlets」https://github.com/AdguardTeam/Scriptlets）などの主要機能はオープンソースとして公開されており、世界中の専門家やコミュニティによって監査・改良されています。
+しかし、AdGuard上で動作するフィルタリングルールや「Scriptlets」：https://github.com/AdguardTeam/Scriptlets）などの主要機能はオープンソースとして公開されており、世界中の専門家やコミュニティによって監査・改良されています。
 アプリ本体が裏で不正な処理を行っていないかについては、ソースコードの監査ではなく、有志による通信トラフィックの外部解析や、AdGuard社（Adguard Software Limited）の透明性レポートによって安全性が確認される仕組みとなっています。
 
 **HTTPSフィルタリング対象外Webサイト**
