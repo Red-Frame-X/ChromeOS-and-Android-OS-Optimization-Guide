@@ -646,7 +646,7 @@ mondで自分が提出した質問の回答：https://mond.how/ja/topics/iozm87r
 ---
 
 ## 特殊詐欺対策
-**！警察庁・SOS47特殊詐欺対策ページ**
+**！警察庁・SOS47特殊詐欺対策ページ**：
 https://www.npa.go.jp/bureau/safetylife/sos47/
 
 **成りすまし・その他の特殊詐欺**
