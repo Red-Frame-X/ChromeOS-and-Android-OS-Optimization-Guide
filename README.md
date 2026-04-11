@@ -260,7 +260,7 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 
   https://chromewebstore.google.com/category/themes
 
-視認性を重視しています。
+視認性を重視しています
 
 * **Royal Desert Sand**：https://chromewebstore.google.com/detail/royal-desert-sand/nnieplejkjaodhemceganohmdkfekkem
 
