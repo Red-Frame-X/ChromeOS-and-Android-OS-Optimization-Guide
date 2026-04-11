@@ -486,7 +486,7 @@ uBlock Origin用に書かれた上記のルール（[https://github.com/gorhill/
 ```
 
 ▶ Scriptletルールは、完全に互換性がある形で生成されるとは限らないため、動作の確認が不可欠です。
-▶ 基本的に生成AIはScriptletルールの作成が苦手なので、AdGuard Filters Issuesへ報告（）するのが最善です。
+▶ 基本的に生成AIはScriptletルールの作成が苦手なので、AdGuard Filters Issuesへ報告するのが最善です。
 
 ### ◆ 不具合を起こすAdGuardユーザールールの修正・削除
 不具合を起こすAdGuardユーザールールをコピー & ペースト（↲改行）
