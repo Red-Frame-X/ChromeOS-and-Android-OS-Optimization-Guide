@@ -922,7 +922,8 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 
 **! 購読済みのDNSブロックリスト・hostsファイル**
 * HaGeZi's Pro DNS Blocklist
-：https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
+
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
 
 **Issues報告**
 * personalDNSfilter Issues：https://github.com/IngoZenz/personaldnsfilter/issues
