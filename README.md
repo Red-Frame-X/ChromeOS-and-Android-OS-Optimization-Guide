@@ -1189,7 +1189,8 @@ AdGuard for Androidの自動再起動・再保護の開始後の状況は
 Logcatは、Android OS上で動作しているアプリケーションやシステムコンポーネントが出力するログメッセージを表示するためのツールです。
 
 **Issuesの時系列**
-* AdGuard 4.7.1 is force-closed by Android 15, preventing background filter updates #5593https://github.com/AdguardTeam/AdguardForAndroid/issues/5593
+* AdGuard 4.7.1 is force-closed by Android 15, preventing background filter updates #5593
+https://github.com/AdguardTeam/AdguardForAndroid/issues/5593
 
   ▶ Issuesだけ提出してみましたが、現象の再現性が低く保留状態でした
   
