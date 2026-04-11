@@ -1391,7 +1391,7 @@ ModアプリやRoot化された端末が検知されるようになり、𝕏/Tw
 * **Obtainium** 野良Androidアプリを一元管理し、更新情報を通知（https://github.com/ImranR98/Obtainium）
 * **YTDLnis** yt-dlpを使用するビデオ・オーディオダウンローダー（https://github.com/deniscerri/ytdlnis）
 * **Seal Plus** 高度なビデオ / オーディオ ダウンローダー（https://github.com/MaheshTechnicals/Sealplus）
-* **Yahoo!リアルタイム検索**：トレンド、話題の画像・動画をチェック（https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybuzzdetection&hl=ja）
+* **Yahoo!リアルタイム検索** トレンド、話題の画像・動画をチェック（https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybuzzdetection&hl=ja）
 * **GitHub**：GitHub公式アプリ（https://play.google.com/store/apps/details?id=com.github.android）
 * **Aurora Store**：Google Play Storeの代替手段（https://auroraoss.com/aurora-store）
 * **F-Droid**：FOSSをインストールできるカタログ（https://f-droid.org/ja/）
