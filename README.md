@@ -566,7 +566,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 ---
 
 ## 主要な生成AI
-* **ChatGPT**汎用性が高い 
+* **ChatGPT** - 汎用性が高い 
 
 https://chat.openai.com/
 * **Grok**：汎用性 + 制限が緩い
