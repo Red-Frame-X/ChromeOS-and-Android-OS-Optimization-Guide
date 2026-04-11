@@ -569,7 +569,9 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 * **ChatGPT**：汎用性が高い 
 
 https://chat.openai.com/
-* **Grok**：汎用性 + 制限が緩い（https://grok.com/）
+* **Grok**：汎用性 + 制限が緩い
+
+https://grok.com/）
   ▶ 𝕏の投稿の信憑性をチェックするのに使えそう？
 * **GitHub Copilot**：コーディング用（https://github.com/features/copilot）
 * **z.ai GLM-4.5**：無料でそこそこの性能・ローカルで動かせる（https://chat.z.ai/）
