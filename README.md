@@ -1389,7 +1389,7 @@ ModアプリやRoot化された端末が検知されるようになり、𝕏/Tw
 **◆ ReVanced・Morphe・URVと併用すると便利かもしれないAndroidアプリ**
 * **File Manager Plus** スマホ内のデータからクラウドやNASまでを直感的に一元管理できる、非常に多機能なAndroid用ファイル管理アプリ（https://play.google.com/store/apps/details?id=com.alphainventor.filemanager）
 * **Obtainium** 野良Androidアプリを一元管理し、更新情報を通知（https://github.com/ImranR98/Obtainium）
-* **YTDLnis**：yt-dlpを使用するビデオ・オーディオダウンローダー（https://github.com/deniscerri/ytdlnis）
+* **YTDLnis** yt-dlpを使用するビデオ・オーディオダウンローダー（https://github.com/deniscerri/ytdlnis）
 * **Seal Plus**：高度なビデオ / オーディオ ダウンローダー（https://github.com/MaheshTechnicals/Sealplus）
 * **Yahoo!リアルタイム検索**：トレンド、話題の画像・動画をチェック（https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybuzzdetection&hl=ja）
 * **GitHub**：GitHub公式アプリ（https://play.google.com/store/apps/details?id=com.github.android）
