@@ -1267,11 +1267,11 @@ Manager：ビルド作業を行うためのツールです。
   https://www.apkmirror.com/
 
   ▶ 有名なAndroidニュースサイト「Android Police」の創設者（Artem Russakovskii氏）によって運営・管理されています。
-  
+
   ▶ ビルド済みのapkファイルを直接配布しているサイトがいくつか存在しますが、GitHubで公開されているビルド済みのapkファイル以外は、安全性の面から利用は推奨されません。
 
 ### ■ ReVanced・Morphe・URVの使い方
-* YouTube Morphe YouTubeの非公式アプリ インストール方法｜Kdroidwinの日記
+* YouTube Morphe YouTubeの非公式アプリ インストール方法｜Kdroidwinの日記：
   https://kdroidwin.hatenablog.com/entry/2026/02/27/213227
 
 ReVanced・Morphe・URVについては、開発経緯や人気のあるサードパーティ製パッチ（外部の改造データ）導入手順が複雑なため、概要の説明にとどめます。
