@@ -1227,6 +1227,7 @@ v4.7.1（v4.7.2を除く）からv4.9までのバージョンについて、v4.1
 
 **参考サイト**
 * How to protect AdGuard from being disabled by the system
+
   https://adguard.com/kb/ja/adguard-for-android/solving-problems/background-work/
   * システムによってAdGuardが無効化されないようにする方法
   * 各スマートフォンメーカーごとに、AdGuard for Androidがバックグラウンドでタスクキルされるのを防ぐ設定方法が解説されています
