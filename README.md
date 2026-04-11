@@ -571,9 +571,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 
  ▶ 𝕏の投稿の信憑性をチェックするのに使えそう？
 * **GitHub Copilot**｜コーディング用：https://github.com/features/copilot
-* **z.ai GLM-4.5**｜無料でそこそこの性能・ローカルで動かせる：
-
-https://chat.z.ai/
+* **z.ai GLM-4.5**｜無料でそこそこの性能・ローカルで動かせる：https://chat.z.ai/
 * **SDXL**：狙い撃ち・人物や複雑な構図の生成で優秀
 
 https://stablediffusionweb.com/
