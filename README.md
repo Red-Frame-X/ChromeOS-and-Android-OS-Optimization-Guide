@@ -1295,9 +1295,9 @@ Official Morphe Patchesをビルドしたことがあるのみで、人気のあ
 質問内容:
 ```
 
-* Announcement: RVX has been officially discontinued #3334
+* Announcement: RVX has been officially discontinued #3334：
   https://github.com/inotia00/ReVanced_Extended/issues/3334
-  
+
   ▶（2025/12/31）YouTube ReVanced Extended（inotia00版）のリポジトリはアーカイブ化され、開発が終了しました。
 
 **◉ ReVanced 公式サイト**
