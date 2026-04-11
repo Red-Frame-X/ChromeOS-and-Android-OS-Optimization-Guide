@@ -582,7 +582,7 @@ https://github.com/features/copilot
 https://chat.z.ai/
 * **SDXL**：狙い撃ち・人物や複雑な構図の生成で優秀
 
-https://stablediffusionweb.com/）
+https://stablediffusionweb.com/
 
 **出典**
 mondで自分が提出した質問の回答
