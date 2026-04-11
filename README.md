@@ -270,7 +270,7 @@ https://chromewebstore.google.com/category/themes
 ---
 
 ## ChromeOS Android アプリ
-* **Google Play アプリ**
+* **Google Play アプリ**：
 
   https://play.google.com/store/apps
 
