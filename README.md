@@ -1033,7 +1033,7 @@ AdGuard Filters、AdGuard DNS（filter）についての最終的な決定はAdG
 
 ② **AdGuard DNSフィルタ（プライバシー抜き）** AdGuard DNS filterをOFFにして、AdGuard DNS filter（without privacy filters）に切り替える。：https://monsivamon.github.io/AdGuard_DNS_Filter_for_myself/Filters/main_filter.txt
 * **参考サイト**
-  kitadai31 / AdGuardSDNSFilter_withoutPrivacyFilters - AdGuard DNS filterからトラッキングやプライバシー用のフィルタを取り除いたDNSフィルhttps://github.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters
+  kitadai31 / AdGuardSDNSFilter_withoutPrivacyFilters - AdGuard DNS filterからトラッキングやプライバシー用のフィルタを取り除いたDNSフィルタhttps://github.com/kitadai31/AdGuardSDNSFilter_withoutPrivacyFilters
 
 ③ **DNSユーザーフィルタ**：AdGuard DNS filterを使用しながら、プライバシー関連のルールを例外（@@）にするDNSユーザーフィルタを自分で作成する。
 
