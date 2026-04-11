@@ -248,7 +248,7 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
   * 説明：Chromebookのリカバリメディアを作成するGoogle公式ツール
 
 **参考サイト**
-* Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記
+* Kdroidwinがおすすめする chrome拡張機能 Firefox アドオン ユーザースクリプト｜Kdroidwinの日記：
 
  https://kdroidwin.hatenablog.com/entry/sc
 * Kami-Browser-Add-on｜Kdroidwin
