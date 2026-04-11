@@ -1178,7 +1178,7 @@ AdGuard for Androidの自動再起動・再保護の開始後の状況は
 この対処法は、5chのAdGuard for Androidスレッドで動作が確認され、共有された情報をまとめたものです。
 
 **AdGuard for Androidの「自動再起動・再保護の開始」後に稀に発生すると考えられる不具合**
-* Randomly incorrect description of the Base filter #5598
+* Randomly incorrect description of the Base filter #5598：
   https://github.com/AdguardTeam/AdguardForAndroid/issues/5598
   * ベースフィルタに関する不正確な説明（ランダム）#5598
   * 計画されていないため閉鎖
