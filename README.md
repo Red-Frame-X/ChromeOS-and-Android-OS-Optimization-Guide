@@ -103,6 +103,7 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
   <https://github.com/AdguardTeam/AdguardFilters/issues/228169>
 - Gmail 「システムで問題が発生しました (#2014)
   <https://www.reddit.com/r/techsupport/comments/1b4rocl/oops_the_system_encountered_a_problem_2014/?tl=ja>
+  
   ▶ 断定はできませんが、PhotoShowが原因だった可能性が高く、同様のブラウザ拡張機能でも同じ不具合が起きるかもしれません。
 
 ### コンテンツブロック・プライバシー関連
