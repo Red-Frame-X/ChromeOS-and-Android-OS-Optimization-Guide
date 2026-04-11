@@ -819,8 +819,7 @@ AdGuard module - not for independent useは、AdGuard Japanese filter Plusのサ
 AdGuard Japanese filter PlusとAdGuard module - not for independent use の両方のフィルタのルールを全コピー & ペーストする必要があります。
 
 **! カスタムフィルタ・ユーザールール**
-* AdGuard Japanese filter Plus：
-  https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt
+* AdGuard Japanese filter Plus：https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt
 * AdGuard module - not for independent use
   https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
 
