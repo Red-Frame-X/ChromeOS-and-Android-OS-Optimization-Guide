@@ -945,6 +945,8 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
   
   HP：https://sebsauvage.net/wiki/doku.php?id=dns-blocklist-en | 
 
+  GitHub：https://github.com/sebsauvage
+
 ---
 
 ## Android アプリ 有償版 AdGuard for Android（Android）
