@@ -79,7 +79,7 @@ Google One メンバーシップの重複を整理した後、時間の経過を
 **❗️いずれにしろ、Google One メンバーシップに適用する購入特典や有料プランは1つに限定するべきです。**
 
 ### ◆ Google One メンバーシップ・不具合解決の最終手段
-Google アカウント（https://myaccount.google.com/） > データとプライバシー > サービスを削除 > パスワード・PIN入力による本人確認 > 「Google サービスの削除」から「Google One」の情報削除を選択することで、Google One メンバーシップの初期化が可能です。
+Google アカウント：https://myaccount.google.com/） > データとプライバシー > サービスを削除 > パスワード・PIN入力による本人確認 > 「Google サービスの削除」から「Google One」の情報削除を選択することで、Google One メンバーシップの初期化が可能です。
 ただし、Google Oneに関連付けられた情報はすべて削除されるため、Google One メンバーシップに付与されていた購入特典や有料プランも失われます。
 
 **参考サイト**
