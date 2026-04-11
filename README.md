@@ -757,6 +757,7 @@ AdGuardでの広告ブロック漏れ、Anti-Adblock Scriptによるコンテン
 
 またはAdGuard製品に搭載されている報告ツールを使います。
 * Webサイトやアプリでの問題を報告する方法
+ 
   https://adguard.com/kb/ja/guides/report-website/
 
 報告されたIssuesはAdGuard Filters Issuesに反映されます。
