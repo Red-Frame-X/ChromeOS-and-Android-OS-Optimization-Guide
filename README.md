@@ -921,7 +921,8 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 そのため、uBlock OriginやAdGuard Browser Extensionなどで使用されるABP（Adblock Plus）形式の構文（例: `||example.com^`）には対応していません。
 
 **! 購読済みのDNSブロックリスト・hostsファイル**
-* HaGeZi's Pro DNS Blocklist：https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
+* HaGeZi's Pro DNS Blocklist
+：https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
 
 **Issues報告**
 * personalDNSfilter Issues：https://github.com/IngoZenz/personaldnsfilter/issues
