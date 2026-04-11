@@ -115,7 +115,6 @@ https://www.tampermonkey.net/faq.php?version=5.3.3&ext=dhdg#Q209
 ブラウザ拡張機能やUserScriptを入れすぎると競合を起こしてトラブルの原因になるため、数は少なければ少ないほど良いです。
 
 * ブラウザ拡張機能の競合をAdguard Filtersの問題と誤認して報告したIssue
-
   https://github.com/AdguardTeam/AdguardFilters/issues/228169
  
   ↓
