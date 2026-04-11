@@ -937,7 +937,7 @@ personalDNSfilterは、日本語インターフェース上でDNSブロックリ
 
 HP：https://oisd.nl/
 
-GitHub：https://github.com/sjhgvr/oisd
+  GitHub：https://github.com/sjhgvr/oisd
   広告、トラッカー、マルウェアなどを防ぐDNSブロックリストで、最大の特徴は「サイトを破壊しない」という厳格な採用基準による、誤検知が極めて少ない点です。
   
 * **StevenBlack / hosts**
