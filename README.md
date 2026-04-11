@@ -1027,7 +1027,7 @@ AdGuard Filters、AdGuard DNS（filter）についての最終的な決定はAdG
 
 この問題を緩和する方法には以下の3種類があります。
 
-① **AdGuard_DNS_Filter_for_myself**：AdGuard DNS filterをOFFにして、AdGuard_DNS_Filter_for_myself（https://monsivamon.github.io/AdGuard_DNS_Filter_for_myself/Filters/main_filter.txt）に切り替える。
+① **AdGuard_DNS_Filter_for_myself**：AdGuard DNS filterをOFFにして、AdGuard_DNS_Filter_for_myself（）に切り替える。
 * **参考サイト**
   monsivamon / AdGuard_DNS_Filter_for_myself
   AdGuard DNS filterに作者様独自の改善案を取り入れたDNSフィルタ
