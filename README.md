@@ -1353,6 +1353,7 @@ RVX開発者のinotia00氏もMorpheの立ち上げメンバーであり、今後
   https://github.com/monsivamon/revanced_extended_anddea-apk
 
 **❗️留意点**
+
 YouTubeがYouTube ReVanced派生アプリの利用を直接的な理由としてアカウントを凍結したという報告は今のところありません。
 ただし、その他の要因でアカウントを凍結されたと思われるReVancedユーザーの報告は散見されます。
 
