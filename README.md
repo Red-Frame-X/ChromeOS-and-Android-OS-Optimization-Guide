@@ -637,7 +637,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
 * AdGuard module - not for independent use：[https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt](https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt)
 
 **参考サイト**
-* [Yuki2718 / adblock2 > AdGuard Japanese filter Plus](https://github.com/Yuki2718/adblock2)
+* [Yuki2718 / adblock2 > AdGuard Japanese filter Plus](https://github.com/Yuki2718/adblock2)：
   AdGuard Japanese filterを補完するフィルタ。迂回広告や悪質ポップアップ、一部のAnti-Adblockへの汎用的な追加対策。
 
 ### ◆ 開発者ツールと連動した手動ブロック機能
