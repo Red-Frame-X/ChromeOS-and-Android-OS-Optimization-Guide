@@ -676,7 +676,7 @@ Yuki2718氏はuBOチームに所属しながら解析を行っています（[Is
 uBlacklistは、Googleなどの検索結果から指定したWebサイトを非表示にする拡張機能です。正規表現ルール、クラウド同期、公開ブラックリストの購読などが可能です。
 
 **! ブラックリストを追加する**
-* [uBlacklist-filter-by-kdroidwin 1](https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt)
+* [uBlacklist-filter-by-kdroidwin 1](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlacklist.txt)
 * [ncaq-uBlacklistRule](https://raw.githubusercontent.com/ncaq/uBlacklistRule/master/uBlacklist.txt)
 
 検索結果の非表示ルール例：
