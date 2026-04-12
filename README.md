@@ -693,7 +693,9 @@ title/Example Domain/
 
 **Issues報告 / 参考サイト**
 * [uBlacklist Issues](https://github.com/iorate/ublacklist/issues) / [uBlacklistRule Issues](https://github.com/ncaq/uBlacklistRule/issues)
-* [ncaq / uBlacklistRule](https://github.com/ncaq/uBlacklistRule)
+* [Kdroidwin
+/
+uB-filter-by-kdroidwin](https://github.com/ncaq/uBlacklistRule)
 * [ncaq / uBlacklistRule](https://github.com/ncaq/uBlacklistRule)
 * [uBlacklistのルール作成例](https://x.com/Kdroidwin1/status/2018617789460984092?s=20)
 * [コミュニティルールセット](https://ublacklist.github.io/ja/rulesets)
