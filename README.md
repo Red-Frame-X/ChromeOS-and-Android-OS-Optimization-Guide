@@ -868,7 +868,7 @@ AdGuard for Android v4.7.1以上のプライベートブラウザが原因で、
 **Issuesの時系列**
 * [Issue #5598](https://github.com/AdguardTeam/AdguardForAndroid/issues/5598)（Base filterの不正確な説明）
 * [Issue #5593](https://github.com/AdguardTeam/AdguardForAndroid/issues/5593)（Android 15によるタスクキル)
-* [Issue #5537](https://github.com/AdguardTeam/AdguardForAndroid/issues/5537)（WebView更新時の無効化)
+* [Issue #5537](https://github.com/AdguardTeam/AdguardForAndroid/issues/5537)（WebView更新時の無効化）
 ▶ [AdGuard for Android v4.10 Nightly 4で修正](https://adguard.com/ja/versions/android/nightly.html#version-41019) されました。
 
 **結論**
