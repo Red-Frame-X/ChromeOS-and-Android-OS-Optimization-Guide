@@ -660,6 +660,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
 * [r/uBlockOrigin > solutions > twitter](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/twitter/)
 * [YouTube Fix & Customizations (Reddit)](https://www.reddit.com/r/youtube/comments/1b40hra/youtube_fix_customizations_4_videos_per_row/)
 * [White area on Youtube (Reddit)](https://www.reddit.com/r/uBlockOrigin/comments/1l4r84i/white_area_on_youtube/)
+  
   空白をなくすルール `www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:remove()`
 
 ### 𝕏/Twitter ルール作り資料｜uBlockOrigin
