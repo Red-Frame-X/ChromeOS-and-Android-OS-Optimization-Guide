@@ -689,7 +689,7 @@ title/Example Domain/
 ```
 例外ルール（再表示ルール）例：
 ```text
-@*://*.example.com/(https://.example.com/)*
+@*://*.example.com/*
 ```
 
 **Issues報告 / 参考サイト**
