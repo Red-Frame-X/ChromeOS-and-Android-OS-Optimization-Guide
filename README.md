@@ -518,7 +518,7 @@ mondで自分が提出した質問の回答：[https://mond.how/ja/topics/iozm87
 * [Sundry Street](https://sundryst.com/)
 * [Writebox](https://write-box.appspot.com/)
 * [Writening](https://writening.net/)
-* [Xポスト性格診断](https://ai-tool.userlocal.jp/x_shindan)
+* [𝕏ポスト性格診断](https://ai-tool.userlocal.jp/x_shindan)
 
 ---
 
