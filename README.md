@@ -707,7 +707,7 @@ title/Example Domain/
 @*://*.example.com/*
 ```
 
-**I参考サイト**
+**参考サイト**
 * [uBlacklist Issues](https://github.com/iorate/ublacklist/issues) / [uBlacklistRule Issues](https://github.com/ncaq/uBlacklistRule/issues)
 **Issues報告 / 参考サイト**
 * [Kdroidwin /uB-filter-by-kdroidwin](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin)
