@@ -663,7 +663,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
   
   空白をなくすルール 
   
-  `www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:remove()`
+  www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:remove()`
 
 ### 𝕏/Twitter ルール作り資料｜uBlockOrigin
 * [uAssets (X投稿)](https://x.com/Red_Frame_X/status/2010925824636252329)
