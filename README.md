@@ -334,6 +334,7 @@ example.com##selector
 上記をコピー ＆ ペーストして➤をクリックします。
 
 **⑥** 生成されたAdGuardユーザールールを登録し、該当サイト上で動作確認をします。
+
 **⑦** 生成されたAdGuardユーザールールが意図した動作をしない時は、生成されたAdGuardユーザールールをGeminiの入力欄にペーストして（↲改行）、プロンプトにルールの動作のフィードバックをしてルールを再生成し、AdGuardユーザールールに登録して動作確認を繰り返します。
 
 ▶ 生成AIはフィルタエンジニアの代替にはならないので、[AdGuard Filters Issues](https://github.com/AdguardTeam/AdguardFilters/issues) への報告が最善です。
