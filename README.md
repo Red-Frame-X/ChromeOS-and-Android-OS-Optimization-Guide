@@ -94,7 +94,7 @@ Tampermonkeyを使用するためには、各拡張機能の内部設定から**
 
 **❗️留意点**
 
-以下のブラウザ拡張機能やUserScriptは、全てをインストールして使用しているわけではありません。ブラウザ拡張機能やUserScriptを入れすぎると競合を起こしてトラブルの原因になるため、数は少なければ少ないほど良いです。
+ 以下のブラウザ拡張機能やUserScriptは、全てをインストールして使用しているわけではありません。ブラウザ拡張機能やUserScriptを入れすぎると競合を起こしてトラブルの原因になるため、数は少なければ少ないほど良いです。
 
 * ブラウザ拡張機能の競合をAdguard Filtersの問題と誤認して報告したIssue例：[#228169](https://github.com/AdguardTeam/AdguardFilters/issues/228169)
 * Gmail 「システムで問題が発生しました (#2014)」：[Reddit報告例](https://www.reddit.com/r/techsupport/comments/1b4rocl/oops_the_system_encountered_a_problem_2014/?tl=ja)
