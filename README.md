@@ -862,7 +862,7 @@ AdGuard for Android v4.7.1以上のプライベートブラウザが原因で、
     * アクション：start
     * パッケージ：com.adguard.android
     * クラス：com.adguard.android.receiver.AutomationReceiver
-    * エクストラ1：パラメーター名 `password` ｜ 値 `（メモしたパスワード)`
+    * エクストラ1：パラメーター名 `password` ｜ 値 `（メモしたパスワード）`
     * エクストラ2：パラメーター名 `quiet` ｜ 値 `true`
 
 **Issuesの時系列**
