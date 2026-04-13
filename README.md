@@ -455,10 +455,10 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 ## 主要な生成AI
 * **[ChatGPT](https://chat.openai.com/)**：汎用性が高い + 多様なモード
 * **[Gemini](https://gemini.google.com/)**：汎用性 + マルチモーダル + 膨大な情報を高速で読み込み回答を出力
-* **[Grok](https://grok.com/)**：汎用性 + 制限が緩い - 𝕏の投稿の信憑性をチェックするのに使えそう？
 * **[GitHub Copilot](https://github.com/features/copilot)**：コーディング用
-* **[z.ai GLM-4.5](https://chat.z.ai/)**：無料でそこそこの性能・ローカルで動かせる
+* **[Grok](https://grok.com/)**：汎用性 + 制限が緩い - 𝕏の投稿の信憑性をチェックするのに使えそう？
 * **[SDXL](https://stablediffusionweb.com/)**：狙い撃ち・人物や複雑な構図の生成で優秀
+* **[z.ai GLM-4.5](https://chat.z.ai/)**：無料でそこそこの性能・ローカルで動かせる
 
 **出典**
 mondで自分が提出した質問の回答：[https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m](https://mond.how/ja/topics/iozm87r4wyxx8ao/amp4bswp4hi8d0m)
