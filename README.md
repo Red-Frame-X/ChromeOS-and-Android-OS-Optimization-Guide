@@ -425,7 +425,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 # 出力書式
 // ==UserScript==
 // @name         My Useful Script
-// @namespace    [http://tampermonkey.net/
+// @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  スクリプトの説明をここに書く
 // @author       あなたのお名前
