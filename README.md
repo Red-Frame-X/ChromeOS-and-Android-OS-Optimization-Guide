@@ -4,7 +4,7 @@
 ## About Me
 「IT学習の一環」として、デバイス設定の記録やAdGuard Custom Rules / UserScript / Regexの作成などに取り組んでいます。
 AdGuard Filters Issuesへの報告や、Google、𝕏、ソフトウェア開発者様、サイト運営者様へのフィードバックも時々行っています。
-MacBook Pro、Lenovo ThinkPad、Dell Inspironを経て、Chromebookへ移行しました。
+MacBook ProDell Inspironを経て、Chromebookへ移行しました。
 現在使用しているデバイスは、Acer Chromebook Plus 514とGoogle Pixel 7aで、5chのノートPC板（Chromebookスレ）、Android板（AdGuardスレ他）、ソフトウェア板（コンテンツブロッカー関連スレ）を時折訪れている半ROMです。
 
 ### Contact
