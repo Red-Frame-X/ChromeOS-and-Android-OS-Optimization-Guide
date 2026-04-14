@@ -674,6 +674,7 @@ v5.2.400以降、拡張機能と組み込み・カスタムフィルタは、「
 ```
 chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/pages/fullscreen-user-rules.html?theme=system`
 
+
 **参考サイト**
 * [はちまブログ > uBlock Origin](https://hachima25.hatenablog.com/archive/category/uBlock%20Origin)
   
