@@ -429,7 +429,7 @@ AdGuardユーザールールで期待する動作が得られない場合、Gemi
 // @version      0.1
 // @description  スクリプトの説明をここに書く
 // @author       あなたのお名前
-// @match        https://www.google.com/
+// @match        https://www.google.com/*
 // @updateURL    https://example.com/script.user.js
 // @downloadURL  https://example.com/script.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
