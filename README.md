@@ -892,7 +892,7 @@ AdGuard for Android v4.7.1以上のプライベートブラウザが原因で、
 
 **結論**
 
-WebViewの影響は v4.10 以降で修正されました。OSによるタスクキル問題は常時接続VPNの有効化やMacroDroidの導入で対処します（[タスクキル対策ガイド](https://adguard.com/kb/ja/adguard-for-android/solving-problems/background-work/)）。
+* WebViewの影響は v4.10 以降で修正されました。OSによるタスクキル問題は常時接続VPNの有効化やMacroDroidの導入で対処します（[タスクキル対策ガイド](https://adguard.com/kb/ja/adguard-for-android/solving-problems/background-work/)）。
 
 ---
 
