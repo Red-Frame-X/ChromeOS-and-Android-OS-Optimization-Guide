@@ -697,7 +697,7 @@ chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/pages/fullscreen-user-rules.
   ```
   www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:remove()
   ```
-※ [Enhancer for YouTube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) を使う場合、いくつかのUI調整ユーザールールは不要になります。
+* [Enhancer for YouTube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) を使う場合、いくつかのUI調整ユーザールールは不要になります。
 
 ### 𝕏/Twitter ルール作り資料｜uBlockOrigin
 * [uAssets（𝕏投稿）](https://x.com/Red_Frame_X/status/2010925824636252329)
