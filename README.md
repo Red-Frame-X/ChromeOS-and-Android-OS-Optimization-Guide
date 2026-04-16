@@ -816,7 +816,7 @@ https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt
 * AdGuard module - not for independent use
 ```
 https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt](https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt)
-
+```
 
 **❗️留意点**
 
