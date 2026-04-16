@@ -757,7 +757,7 @@ title/Example Domain/
 ※ 実態はDNSブロッカーのため、ABP形式の構文（`||example.com^`）には対応していません。
 
 **! 購読済みのDNSブロックリスト・hostsファイル**
-* [HaGeZi's Pro DNS Blocklist
+* HaGeZi's Pro DNS Blocklist
 ```
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt)
 ```
