@@ -951,7 +951,7 @@ AdGuard for Androidの質問テンプレ
 * **[Morphe 公式](https://morphe.software/)** / [GitHub](https://github.com/MorpheApp)（RVX開発陣も合流した新プロジェクト）
 * **[URV 公式](https://jmancentral.com/)** / [GitHub](https://github.com/Jman-Github)（使いやすい上位互換Manager）
 
-### ■ 使い方・質問用テンプレ
+**■ 使い方・質問用テンプレ
 * [Morphe インストール方法（Kdroidwinの日記）](https://kdroidwin.hatenablog.com/entry/2026/02/27/213227)
 * [5ch Revanced総合スレ](https://ff5ch.syoboi.jp/?q=Revanced%E7%B7%8F%E5%90%88)
 
