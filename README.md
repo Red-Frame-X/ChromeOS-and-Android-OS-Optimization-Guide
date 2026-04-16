@@ -823,7 +823,9 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
  [AdGuard Filters Issues](https://github.com/AdguardTeam/AdguardFilters/issues) への報告が煩雑になるため、カスタムフィルタは基本的に上記2種以外は追加しないほうが良いです。
 
 **! フィッシング詐欺サイト対策**
-* Block malicious websites by Kdroidwin：[https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlockorigin.txt](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlockorigin.txt)
+* Block malicious websites by Kdroidwin
+
+https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlockorigin.txt](https://codeberg.org/Kdroidwin/uB-filter-by-kdroidwin/raw/branch/main/uBlockorigin.txt)
 
   検索結果には表示されますがアクセスを防ぐことができます。ただし、強力であるため、関係のないサイトまでブロックされることがあります。
   HTTPSフィルタリングを有効にする必要があります。
