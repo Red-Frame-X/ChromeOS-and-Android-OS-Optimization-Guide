@@ -701,7 +701,7 @@ chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/pages/fullscreen-user-rules.
 * [r/uBlockOrigin > solutions > youtube](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/youtube/)
 * [r/uBlockOrigin > solutions > twitter](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/twitter/)
 * [YouTube Fix & Customizations（Reddit）](https://www.reddit.com/r/youtube/comments/1b40hra/youtube_fix_customizations_4_videos_per_row/)
-* [White area on Youtube（Reddit)](https://www.reddit.com/r/uBlockOrigin/comments/1l4r84i/white_area_on_youtube/)
+* [White area on Youtube（Reddit）](https://www.reddit.com/r/uBlockOrigin/comments/1l4r84i/white_area_on_youtube/)
   
   YouTubeのホーム画面から、Shortsやおすすめなどの特別セクションを単なる非表示ではなくDOMから完全に削除（:remove()）するuBlock Origin用のフィルタです。動画サムネイル整列時の不自然な空白を防ぐ目的で使用されます
   ```
