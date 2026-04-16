@@ -981,7 +981,8 @@ AdGuard for Androidの質問テンプレ
 利用規約違反によるアカウント凍結リスクは常に伴います（[Reddit体験談1](https://www.reddit.com/r/revancedapp/comments/132ojbg/my_account_has_been_suspended_today_and_i_am_no/), [Reddit体験談2](https://www.reddit.com/r/revancedapp/comments/17a6iqj/can_google_suspend_my_account_if_i_use_revanced/)）。Premium加入者は「動画ストリームを偽装（Spoof video streams）」をOFFにすることが推奨されます。
 * [YouTube 利用規約](https://www.youtube.com/t/terms) / [ヘルプページ](https://support.google.com/youtube/answer/14129599?hl=ja&ref_topic=15848873&sjid=5246634321435162902-NC) / [GIGAZINE記事](https://gigazine.net/news/20240416-youtube-ad-blocker-crackdown-third-party-apps/)
 
-**■ 𝕏/Twitter ReVancedの使い方
+**■ 𝕏/Twitter ReVancedの使い方**
+
 Modアプリ検知の強化によりログインが困難になっています（[Issue #714](https://github.com/crimera/piko/issues/714)）。
 * [導入方法解説](https://pfbcoconut.com/2024/04/21/twitter-x-revanced/) / [ログイン方法更新](https://kdroidwin.hatenablog.com/entry/2025/11/04/210359)
 * パッチ集: [crimera (Piko)](https://github.com/crimera/piko), [monsivamon](https://github.com/monsivamon/twitter-apk), [lluni](https://github.com/lluni/twitter-apk), [Origin Twitter Neo](https://github.com/YuzuMikan404/Origin-Twitter-Neo)
