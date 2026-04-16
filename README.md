@@ -760,7 +760,7 @@ title/Example Domain/
 * [HaGeZi's Pro DNS Blocklist
 ```
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt)
-
+```
 
 **参考サイト**
 * **[HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)**：世界で最も高評価な有志による統合型DNSブロックリスト
