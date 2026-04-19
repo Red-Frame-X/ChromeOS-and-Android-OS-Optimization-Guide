@@ -798,7 +798,7 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomain
 **◆ AdGuard for Android（ローカルVPNモード）を安定して稼働させるための設定**
 * 設定 > アプリ > すべてのアプリ > AdGuard > アプリのバッテリー使用量 > **バックグラウンドでの使用を許可** > **制限なし**
 * Androidのステータスバー：通知右上⚙を押して、**通知をデフォルトからサイレント**に変更する
-* AndroidのVPN設定で**「常時接続VPN」を有効**にする
+* AndroidのVPN設定で **「常時接続VPN」を有効**にする
 * VPNの接続が不安定な時は、**「VPNプロファイル」を一度削除し、再設定する**
 * Androidのネットワーク設定で **「プライベートDNS」を無効**にする
 * Androidのネットワーク設定で **「接続の自動調整」を必要に応じて無効**にする
