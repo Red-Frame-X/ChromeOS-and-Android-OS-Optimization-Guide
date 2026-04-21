@@ -784,9 +784,6 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomain
 
 **参考サイト**
 * **[HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists)**：世界で最も高評価な有志による統合型DNSブロックリスト
-* **[oisd｜domain blocklist](https://oisd.nl/)** / [GitHub](https://github.com/sjhgvr/oisd)：サイトを破壊しない厳格な採用基準によるリスト
-* **[StevenBlack / hosts](https://github.com/StevenBlack/hosts)**：カスタマイズ可能な強力なhostsファイル
-* **[sebsauvage.net hosts blocklist](https://sebsauvage.net/wiki/doku.php?id=dns-blocklist-en)** / [GitHub](https://github.com/sebsauvage)
 
 ---
 
