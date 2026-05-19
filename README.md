@@ -677,7 +677,7 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
 * uB-filter-by-kdroidwin（uBO&AdGuard）
 ```
 
-
+```
 **❗️留意点**
 
  [AdGuard Filters Issues](https://github.com/AdguardTeam/AdguardFilters/issues) への報告が煩雑になるため、カスタムフィルタは基本的に上記2種以外は追加しないほうが良いです。
