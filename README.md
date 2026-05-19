@@ -849,7 +849,7 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
  [AdGuard Filters Issues](https://github.com/AdguardTeam/AdguardFilters/issues) への報告が煩雑になるため、カスタムフィルタは基本的に上記2種以外は追加しないほうが良いです。
 
 **! フィッシング詐欺サイト対策**
-* uB-filter-by-kdroidwinuBO&AdGuard)
+* uB-filter-by-kdroidwin（uBO&AdGuard)
 ```
 https://raw.githubusercontent.com/Kdroidwin/uBlacklist-filter-by-kdroidwin/refs/heads/main/uBlockorigin.txt
 ```
