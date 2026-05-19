@@ -657,6 +657,7 @@ v5.2.400で強化された機能は、設定画面内でカスタムフィルタ
 
 [AdGuard Browser Extension MV3 vv5.4.1.3](https://github.com/AdguardTeam/AdguardBrowserExtension/releases/tag/v5.4.1.3)
 > Custom filters in MV3 can now update independently from extension updates again, so ad blocking stays accurate and responds to changes more quickly.
+
 > MV3のカスタムフィルターは、拡張機能の更新とは独立して更新できるようになりました。これにより、広告ブロックの精度が維持され、変更への対応もより迅速になります。
 
 * **[AdGuard ブラウザ拡張機能 MV3対応版の解説](https://adguard.com/kb/ja/adguard-browser-extension/mv3-version/)**
