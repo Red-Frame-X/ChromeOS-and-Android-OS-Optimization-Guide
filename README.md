@@ -675,7 +675,7 @@ https://yuki2718.github.io/adblock2/japanese/jpf-plus.txt
 https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
 ```
 * uB-filter-by-kdroidwin（uBO&AdGuard）
-
+```
 
 **❗️留意点**
 
