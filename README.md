@@ -783,7 +783,12 @@ title/Example Domain/
 * HaGeZi's Pro DNS Blocklist
 ```
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
-
+```
+* 追加ホストの設定
+```
+# [2026.3.6] 5ch.net → 5ch.io
+> 5ch.net 188.114.96.0
+> *.5ch.net 188.114.96.0
 ```
 
 **参考サイト**
