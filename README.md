@@ -783,6 +783,7 @@ title/Example Domain/
 * HaGeZi's Pro DNS Blocklist
 ```
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt
+
 ```
 
 **参考サイト**
