@@ -850,8 +850,6 @@ https://yuki2718.github.io/adblock2/japanese/jpfp-ag.txt
 
  [AdGuard Filters Issues](https://github.com/AdguardTeam/AdguardFilters/issues) への報告が煩雑になるため、カスタムフィルタは基本的に上記2種以外は追加しないほうが良いです。
 
-
-
 **DNS通信を保護 > DNSフィルタ**
 
 [AdGuard DNS filter](https://github.com/AdguardTeam/AdGuardSDNSFilter) によるブロックはシステム全体に及びます（[DNS書き換えの基本](https://writening.net/page?keELEF)）。
